@@ -1,0 +1,24 @@
+body {
+    background-image: url(https://cdna.artstation.com/p/assets/images/images/027/349/222/large/daniel-kovacs-aos-c-b-0010-crash-and-burn-cv5.jpg?1591279682);
+}
+
+.characterTokens {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+h1 {
+    font-weight: bold;
+    font-family: 'MedievalSharp', cursive;
+}
+h2 {
+    font-family: 'MedievalSharp', cursive;
+}
+
+.show_bio {
+    opacity: 1;
+}
+
+.show_status {
+    opacity: 1;
+}
